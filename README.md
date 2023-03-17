@@ -1,3 +1,11 @@
+## 깃허브 공부용 레파지토리
+
+- Working Directory, Staging Area, Local R...
+- Add,
+- Branch
+- Conflict
+
+<code>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +15,7 @@
     <title>DocumentDocument</title>
 </head>
 <body>
-    <p>new VSCode</p>
+    <p>new</p>
 </body>
 </html>
+</code>
